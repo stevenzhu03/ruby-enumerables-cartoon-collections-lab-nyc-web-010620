@@ -2,6 +2,7 @@ def roll_call_dwarves(array)
   hash = {}
   
   array.each_with_index {|dwarf, index|
+    
   
 end
 
